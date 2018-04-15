@@ -1,0 +1,60 @@
+{
+  "series": [
+    {
+      "id": 2,
+      "name": "Friends",
+      "status": "Assistindo",
+      "genre": "Comédia",
+      "comments": "Bom para descontrair!"
+    },
+    {
+      "id": 3,
+      "name": "Breaking Bad",
+      "status": "Assistido",
+      "genre": "Drama",
+      "comments": "Say My Name - melhor cena"
+    },
+    {
+      "id": 4,
+      "name": "Better Call Saul",
+      "status": "Assistir",
+      "genre": "Drama",
+      "comments": "Galera fala bem"
+    },
+    {
+      "name": "Gilmore Girls",
+      "status": "Assistido",
+      "genre": "Comédia",
+      "comments": "Melhor série ever depois de Friends",
+      "id": 14
+    },
+    {
+      "name": "",
+      "status": "Assistido",
+      "genre": "Ação",
+      "comments": "",
+      "id": 15
+    },
+    {
+      "name": "Punisher",
+      "status": "watched",
+      "genre": "Ação",
+      "comments": "Serie fodastica ",
+      "id": 19
+    },
+    {
+      "name": "Demolidor",
+      "status": "watched",
+      "genre": "Ação",
+      "comments": "Heroi cego que enxerga melhor que qualquer um e bate demais",
+      "id": 20
+    }
+  ],
+  "genres": [
+    "Ação",
+    "Aventura",
+    "Comédia",
+    "Drama",
+    "Romance"
+  ]
+}
